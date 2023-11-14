@@ -3,11 +3,11 @@
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
-<a href="https://github.com/jstrieb/github-stats">
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+<a href="https://github.com/kaamanbd/github-stats">
+<img src="https://github.com/kaamanbd/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/kaamanbd/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/kaamanbd/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/kaamanbd/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 </a>
 
 Generate visualizations of GitHub user and repository statistics with GitHub
@@ -20,7 +20,7 @@ dark theme.
 ## Background
 
 When someone views a profile on GitHub, it is often because they are curious
-about a user's open source projects and contributions. Unfortunately, that
+about a user's open-source projects and contributions. Unfortunately, the
 user's stars, forks, and pinned repositories do not necessarily reflect the
 contributions they make to private repositories. The data likewise does not
 present a complete picture of the user's total contributions beyond the current
